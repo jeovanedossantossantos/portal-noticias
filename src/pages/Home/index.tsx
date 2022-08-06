@@ -20,7 +20,7 @@ export const Home: React.FC = () => {
            const res = await getTopHeadline()
            setData(res.articles)
            console.log(res)
-        //    console.log("teste")
+       
         }
 
         getNoticias()

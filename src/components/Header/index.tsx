@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Link, Logo, Menu, Wrapper } from "./style";
+import { Container, Logo,  Wrapper } from "./style";
 
 
 export const Header: React.FC = () => {
